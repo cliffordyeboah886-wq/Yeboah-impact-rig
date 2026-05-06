@@ -1,3 +1,10 @@
+# ⚠️ DEPRECATED / ARCHIVED
+This repository is part of the early development phase of Yeboah's Law. 
+It is no longer maintained. 
+
+**Please visit the latest version here:** 
+👉 [Yeboah’s Law Digital Twin v2.0](https://cliffordyeboah886-wq.github.io/yeboahs-law-digital-twin/)
+---
 # Yeboah’s Law: A Geometric Framework for Mechanical Separation
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009-0000-9001-2643-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-9001-2643)
